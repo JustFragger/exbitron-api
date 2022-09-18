@@ -1165,11 +1165,7 @@
                 }
               }
             }
-          }
-        }
-      }
-    }
-  },
+          },
   "/coinmarketcap/ticker": {
     "get": {
       "tags": ["coinmarketcap"],
@@ -1398,6 +1394,10 @@
         "200": {
           "description": "Get depth or specified market",
           "content": {}
+                }
+              }
+            }
+          }
         }
       }
     }
