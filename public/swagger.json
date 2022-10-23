@@ -1269,7 +1269,7 @@
     "get": {
       "tags": ["coingecko"],
       "description": "Get list of all available trading pairs.",
-      "operationId": "getCoingeckoTickers",
+      "operationId": "getApiV2PeatioCoingeckoTickers",
       "responses": {
         "200": {
           "description": "Get list of all available trading pairs.",
